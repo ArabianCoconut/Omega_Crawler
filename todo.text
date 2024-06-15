@@ -3,7 +3,7 @@
 3. Add SQL injection in the web crawler.
 
 Nice to have:
-1. Allow user to add SQL injection.
+1. Allow users to add SQL injection.
 
 Project Security:
-1. If the user doesn't pay execute delete command.
+1. ~If the user doesn't pay execute the delete command.~
