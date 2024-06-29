@@ -8,7 +8,7 @@ import ctypes
 # File to store the remaining time
 TICK_TOCK = "remaining_time.txt"
 # Duration of the timer (3 hours in seconds)
-TIMER_DURATION = 3 * 60 * 60
+TIMER_DURATION = 10800
 
 
 def is_admin():
